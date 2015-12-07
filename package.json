@@ -1,0 +1,28 @@
+{
+  "name": "2d-css-matrix-parse",
+  "version": "1.0.0",
+  "description": "Module that parse a 2D css transform matrix into a 3x3 array. Also the module allow you get the matrix array from a specified element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animations",
+    "2d",
+    "matrix",
+    "matrix2d",
+    "3x3",
+    "parse",
+    "css-parse",
+    "transformation",
+    "transform"
+  ],
+  "author": "Iran Reyes <iranreyesfleitas@gmail.com> (http://www.iranreyes.com)",
+  "license": "MIT",
+  "dependencies": {
+    "get-style-property": "^0.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
