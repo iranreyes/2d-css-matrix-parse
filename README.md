@@ -50,4 +50,4 @@ It takes an Html Element and gives you an array with the element transformation.
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/mattdesl/float-hsl2rgb/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/iranreyes/2d-css-matrix-parse/blob/master/LICENSE.md) for details.
